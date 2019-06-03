@@ -1,0 +1,6 @@
+/.idea/
+/vendor/
+/storage/
+init.lock
+composer.lock
+

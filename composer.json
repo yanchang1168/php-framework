@@ -1,0 +1,12 @@
+{
+    "name": "yanchang/framework",
+    "description": "yanchang/framework",
+    "keywords": ["yanchang", "framework"],
+    "license": "MIT",
+    "type": "project",
+    "require": {
+        "php": ">=7.0.0",
+        "jenssegers/blade": "^1.2.0",
+        "nette/robot-loader": "^3.2.0"
+    }
+}
